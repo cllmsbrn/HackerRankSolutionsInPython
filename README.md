@@ -6,3 +6,5 @@
 [Simple Array Sum](https://github.com/cllmsbrn/HackerRankSolutionsInPython/blob/master/src/simple_array_sum.py)
 
 [Compare the Triplets](https://github.com/cllmsbrn/HackerRankSolutionsInPython/blob/master/src/compare_the_triplets.py)
+
+[Plus Minus](https://github.com/cllmsbrn/HackerRankSolutionsInPython/blob/master/src/plus_minus.py)
